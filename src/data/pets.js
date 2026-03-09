@@ -1,0 +1,11 @@
+// --- DANE (pamiętaj, by ID były unikalne) ---
+export const petsData = [
+  { id: 1, name: 'Max', age: '3 lata', type: 'Pies', description: 'Max kocha długie spacery i aportowanie.', img: 'https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=500' },
+  { id: 2, name: 'Coco', age: '2 lata', type: 'Kot', description: 'Coco to typowy kanapowiec, uwielbia głaskanie za uszkiem.', img: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=500' },
+  { id: 3, name: 'Luna', age: '5 lat', type: 'Pies', description: 'Luna jest bardzo spokojna i dobrze dogaduje się z innymi psami.', img: 'https://plus.unsplash.com/premium_photo-1664299466090-8b508c9a7fe6?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
+  { id: 4, name: 'Sally', age: '1 rok', type: 'Pies', description: 'Sally jest bardzo aktywna i lubi grać w piłkę.', img: 'https://plus.unsplash.com/premium_photo-1723708857381-82e3b34187b5?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
+  { id: 5, name: 'Milo', age: '4 lata', type: 'Kot', description: 'Milo jest bardzo ciekawski i uwielbia wspinać się po drapakach.', img: 'https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=500' },
+  { id: 6, name: 'Bella', age: '2 lata', type: 'Pies', description: 'Bella jest bardzo przyjazna i uwielbia dzieci.', img: 'https://plus.unsplash.com/premium_photo-1663127235137-dabe6e21bdfb?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
+  { id: 7, name: 'Charlie', age: '3 lata', type: 'Pies', description: 'Charlie jest bardzo lojalny i lubi biegać po parku.', img: 'https://images.unsplash.com/photo-1737309625096-4c470d65b484?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
+  { id: 8, name: 'Mokka', age: '2 lata', type: 'Pies', description: 'Mokka jest bardzo energiczna i uwielbia bawić się z innymi psami.', img: 'https://images.unsplash.com/photo-1543791973-58b1a92787dd?q=80&w=941&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' }
+];
